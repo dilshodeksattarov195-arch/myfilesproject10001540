@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productealidate",
+        "uuid": 4587660,
+        "checksum": "eayfk"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
